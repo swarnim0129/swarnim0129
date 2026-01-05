@@ -28,10 +28,12 @@
 <tr>
 <td align="center" width="50%">
 
-### 🎯 5x Hackathon Champion
+### 🎯 7x Hackathon Champion
   
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100" />
 
+[![CodeVerse 3.0](https://img.shields.io/badge/🏆_VCET_Hackathon-2025-gold?style=for-the-badge)](https://github.com/swarnim0129)
+[![Hack The Flame](https://img.shields.io/badge/🏆_VCET_Hackathon-2025-gold?style=for-the-badge)](https://github.com/swarnim0129)
 [![VCET Hackathon](https://img.shields.io/badge/🏆_VCET_Hackathon-2025-gold?style=for-the-badge)](https://github.com/swarnim0129)
 [![Webathon 2.0](https://img.shields.io/badge/🏆_Webathon_2.0-2025-gold?style=for-the-badge)](https://github.com/swarnim0129)
 [![MLSC Coherence](https://img.shields.io/badge/🏆_MLSC_Coherence-2025-gold?style=for-the-badge)](https://github.com/swarnim0129)
