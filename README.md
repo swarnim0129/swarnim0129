@@ -32,8 +32,8 @@
   
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100" />
 
-[![HackSync II](https://img.shields.io/badge/🏆_HackSync_II-2025-gold?style=for-the-badge)](https://github.com/swarnim0129)
-[![CodeVerse 3.0](https://img.shields.io/badge/🏆_CodeVerse_3.0-2025-gold?style=for-the-badge)](https://github.com/swarnim0129)
+[![HackSync II](https://img.shields.io/badge/🏆_HackSync_II-2026-gold?style=for-the-badge)](https://github.com/swarnim0129)
+[![CodeVerse 3.0](https://img.shields.io/badge/🏆_CodeVerse_3.0-2026-gold?style=for-the-badge)](https://github.com/swarnim0129)
 [![Hack The Flame](https://img.shields.io/badge/🏆_Hack_The_Flame-2025-gold?style=for-the-badge)](https://github.com/swarnim0129)
 [![VCET Hackathon](https://img.shields.io/badge/🏆_VCET_Hackathon-2025-gold?style=for-the-badge)](https://github.com/swarnim0129)
 [![Webathon 2.0](https://img.shields.io/badge/🏆_Webathon_2.0-2025-gold?style=for-the-badge)](https://github.com/swarnim0129)
