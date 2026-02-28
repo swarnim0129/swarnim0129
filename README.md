@@ -28,7 +28,7 @@
 <tr>
 <td align="center" width="50%">
 
-### 🎯 10x Hackathon Winner
+### 🎯 11x Hackathon Winner
 
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100" />
 
