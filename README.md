@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Swarnim%20Bane&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%2010x%20Hackathon%20Winner&descAlignY=52&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Swarnim%20Bane&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%2011x%20Hackathon%20Winner&descAlignY=52&descSize=18"/>
 
 <!-- Animated Typing Effect -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=100&lines=Building+the+Future+with+Code+%F0%9F%9A%80;Crafting+AI-Powered+Solutions+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" /></a>
@@ -32,6 +32,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100" />
 
+[![SPIT HACK'26](https://img.shields.io/badge/🏆_SPIT_HACK-2026-gold?style=for-the-badge)](https://github.com/swarnim0129)
 [![Tsec Hacks'26](https://img.shields.io/badge/🏆_TSEC_Hacks-2026-gold?style=for-the-badge)](https://github.com/swarnim0129)
 [![Rubix_Hackathon](https://img.shields.io/badge/🏆_Rubix_Hackathon_2nd_RunnerUp-2026-gold?style=for-the-badge)](https://github.com/swarnim0129)
 [![HackSync II](https://img.shields.io/badge/🏆_HackSync_II-2026-gold?style=for-the-badge)](https://github.com/swarnim0129)
