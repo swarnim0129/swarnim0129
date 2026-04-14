@@ -31,7 +31,7 @@
 ### 🎯 12x Hackathon Winner
 
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100" />
-[![DATAHACK_4.0](https://img.shields.io/badge/DATAHACK_4.0-2026-gold?style=for-the-badge&logo=github)](https://github.com/swarnim0129)[![SPIT HACK'26](https://img.shields.io/badge/🏆_SPIT_HACK-2026-gold?style=for-the-badge)](https://github.com/swarnim0129)
+[![SPIT HACK'26](https://img.shields.io/badge/🏆_SPIT_HACK-2026-gold?style=for-the-badge)](https://github.com/swarnim0129)
 [![Tsec Hacks'26](https://img.shields.io/badge/🏆_TSEC_Hacks-2026-gold?style=for-the-badge)](https://github.com/swarnim0129)
 [![Rubix_Hackathon](https://img.shields.io/badge/🏆_Rubix_Hackathon_2nd_RunnerUp-2026-gold?style=for-the-badge)](https://github.com/swarnim0129)
 [![HackSync II](https://img.shields.io/badge/🏆_HackSync_II-2026-gold?style=for-the-badge)](https://github.com/swarnim0129)
