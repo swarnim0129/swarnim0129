@@ -31,19 +31,54 @@
 ### 🎯 12x Hackathon Winner
 
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100" />
-[![SPIT HACK'26](https://img.shields.io/badge/🏆_SPIT_HACK-2026-gold?style=for-the-badge)](https://github.com/swarnim0129)
-[![Tsec Hacks'26](https://img.shields.io/badge/🏆_TSEC_Hacks-2026-gold?style=for-the-badge)](https://github.com/swarnim0129)
-[![Rubix_Hackathon](https://img.shields.io/badge/🏆_Rubix_Hackathon_2nd_RunnerUp-2026-gold?style=for-the-badge)](https://github.com/swarnim0129)
-[![HackSync II](https://img.shields.io/badge/🏆_HackSync_II-2026-gold?style=for-the-badge)](https://github.com/swarnim0129)
-[![CodeVerse 3.0](https://img.shields.io/badge/🏆_CodeVerse_3.0-2026-gold?style=for-the-badge)](https://github.com/swarnim0129)
-[![Hack The Flame](https://img.shields.io/badge/🏆_Hack_The_Flame-2025-gold?style=for-the-badge)](https://github.com/swarnim0129)
-[![VCET Hackathon](https://img.shields.io/badge/🏆_VCET_Hackathon-2025-gold?style=for-the-badge)](https://github.com/swarnim0129)
-[![Webathon 2.0](https://img.shields.io/badge/🏆_Webathon_2.0-2025-gold?style=for-the-badge)](https://github.com/swarnim0129)
-[![MLSC Coherence](https://img.shields.io/badge/🏆_MLSC_Coherence-2025-gold?style=for-the-badge)](https://github.com/swarnim0129)
-[![Neurofest](https://img.shields.io/badge/🏆_Neurofest-2023-gold?style=for-the-badge)](https://github.com/swarnim0129)
-[![CodeVerse](https://img.shields.io/badge/🏆_CodeVerse-2022-gold?style=for-the-badge)](https://github.com/swarnim0129)
+
+<br/>
+
+<a href="https://github.com/swarnim0129">
+  <img src="https://img.shields.io/badge/SPIT_HACK-2026-gold?style=for-the-badge" />
+</a>
+<a href="https://github.com/swarnim0129">
+  <img src="https://img.shields.io/badge/TSEC_Hacks-2026-gold?style=for-the-badge" />
+</a>
+<a href="https://github.com/swarnim0129">
+  <img src="https://img.shields.io/badge/Rubix-RunnerUp-gold?style=for-the-badge" />
+</a>
+
+<br/>
+
+<a href="https://github.com/swarnim0129">
+  <img src="https://img.shields.io/badge/HackSync-II-gold?style=for-the-badge" />
+</a>
+<a href="https://github.com/swarnim0129">
+  <img src="https://img.shields.io/badge/CodeVerse-3.0-gold?style=for-the-badge" />
+</a>
+<a href="https://github.com/swarnim0129">
+  <img src="https://img.shields.io/badge/Hack_The_Flame-2025-gold?style=for-the-badge" />
+</a>
+
+<br/>
+
+<a href="https://github.com/swarnim0129">
+  <img src="https://img.shields.io/badge/VCET-2025-gold?style=for-the-badge" />
+</a>
+<a href="https://github.com/swarnim0129">
+  <img src="https://img.shields.io/badge/Webathon-2.0-gold?style=for-the-badge" />
+</a>
+<a href="https://github.com/swarnim0129">
+  <img src="https://img.shields.io/badge/MLSC-Coherence-gold?style=for-the-badge" />
+</a>
+
+<br/>
+
+<a href="https://github.com/swarnim0129">
+  <img src="https://img.shields.io/badge/Neurofest-2023-gold?style=for-the-badge" />
+</a>
+<a href="https://github.com/swarnim0129">
+  <img src="https://img.shields.io/badge/CodeVerse-2022-gold?style=for-the-badge" />
+</a>
 
 </td>
+
 <td align="center" width="50%">
 
 ### 🎓 Academic Excellence
@@ -51,19 +86,20 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
 **B.Tech AI & Data Science**  
-*DJ Sanghvi College of Engineering*  
-**CGPA: 9.38/10.0** ⭐
+DJ Sanghvi College of Engineering  
+**CGPA: 9.38/10 ⭐**
+
+<br/>
 
 **Diploma in Computer Engineering**  
-*First Rank Holder* 🥇  
-**Percentage: 95.53%**
+🥇 First Rank Holder  
+**95.53%**
 
 </td>
 </tr>
 </table>
 
 </div>
-
 ---
 
 ## 👨‍💻 About Me
