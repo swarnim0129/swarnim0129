@@ -35,6 +35,9 @@
 <br/>
 
 <a href="https://github.com/swarnim0129">
+  <img src="https://img.shields.io/badge/DATAHACK-2026-gold?style=for-the-badge" />
+</a>
+<a href="https://github.com/swarnim0129">
   <img src="https://img.shields.io/badge/SPIT_HACK-2026-gold?style=for-the-badge" />
 </a>
 <a href="https://github.com/swarnim0129">
