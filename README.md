@@ -240,17 +240,6 @@ const swarnim = {
   
 </div>
 
----
-
-## 🎵 Vibing To
-
-<div align="center">
-<a href="https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USERNAME&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=53b14f&bar_color_cover=true" />
-</a>
-</div>
-
----
 
 ## 💡 Random Dev Quote
 
